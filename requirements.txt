@@ -1,0 +1,3 @@
+# Phase I - Console Todo Application
+# Python 3.11+ standard library only
+# No external dependencies required
