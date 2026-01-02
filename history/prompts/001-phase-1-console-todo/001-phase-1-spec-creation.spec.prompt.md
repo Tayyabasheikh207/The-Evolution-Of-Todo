@@ -24,7 +24,7 @@ tests:
 
 ## Prompt
 
-Create the Phase I specification for the "Evolution of Todo" project.
+/sp.specify Create the Phase I specification for the "Evolution of Todo" project.
 
 Phase I Scope:
 
