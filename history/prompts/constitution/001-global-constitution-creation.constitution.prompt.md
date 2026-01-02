@@ -1,4 +1,4 @@
-/sp.constitution---
+---
 id: 001
 title: Global Constitution Creation
 stage: constitution
@@ -23,7 +23,7 @@ tests:
 
 ## Prompt
 
-Create a single global constitution for the entire "Evolution of Todo" project covering Phase I through Phase V.
+/sp.constitution Create a single global constitution for the entire "Evolution of Todo" project covering Phase I through Phase V.
 
 This constitution must define:
 
