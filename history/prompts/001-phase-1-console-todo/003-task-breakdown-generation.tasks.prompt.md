@@ -23,6 +23,7 @@ tests:
 
 ## Prompt
 
+/sp.task 
 Generate the task breakdown for Phase I console todo application based on the approved specification and implementation plan.
 
 ## Response snapshot
