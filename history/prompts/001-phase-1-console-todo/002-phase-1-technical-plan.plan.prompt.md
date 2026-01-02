@@ -25,7 +25,7 @@ tests:
 
 ## Prompt
 
-Create the Phase I technical plan for the Todo in-memory Python console application.
+/sp.plan Create the Phase I technical plan for the Todo in-memory Python console application.
 
 The plan must be derived strictly from the Phase I specification and global constitution.
 
