@@ -1,4 +1,4 @@
----
+/sp.constitution---
 id: 001
 title: Global Constitution Creation
 stage: constitution
