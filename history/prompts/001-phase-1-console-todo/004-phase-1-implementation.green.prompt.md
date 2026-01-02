@@ -34,7 +34,7 @@ tests:
 
 ## Prompt
 
-Implement Phase I of the "Evolution of Todo" project following tasks.md exactly. Generate all Python source files for the in-memory console todo application with menu-driven CLI interface.
+/sp.implement Implement Phase I of the "Evolution of Todo" project following tasks.md exactly. Generate all Python source files for the in-memory console todo application with menu-driven CLI interface.
 
 ## Response snapshot
 
