@@ -1,0 +1,28 @@
+{
+  "name": "bonsai",
+  "version": "1.0.0",
+  "description": "A simple in-memory Python console application for managing todo tasks with basic CRUD operations.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tayyabasheikh207/The-Evolution-Of-Todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tayyabasheikh207/The-Evolution-Of-Todo/issues"
+  },
+  "homepage": "https://github.com/Tayyabasheikh207/The-Evolution-Of-Todo#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}

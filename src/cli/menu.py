@@ -48,7 +48,7 @@ def display_error(message: str) -> None:
     Args:
         message: The error message to display
     """
-    print(f"\n✗ Error: {message}")
+    print(f"\n[X] Error: {message}")
     print()
 
 
@@ -58,7 +58,7 @@ def display_success(message: str) -> None:
     Args:
         message: The success message to display
     """
-    print(f"\n✓ {message}")
+    print(f"\n[✓] {message}")
     print()
 
 

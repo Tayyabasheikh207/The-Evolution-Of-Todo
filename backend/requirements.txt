@@ -1,0 +1,11 @@
+# Backend requirements for Todo Web Application
+
+fastapi==0.115.0
+uvicorn==0.32.0
+sqlmodel==0.0.22
+pydantic==2.10.3
+pydantic-settings==2.7.0
+python-multipart==0.0.20
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+python-dotenv==1.0.0
